@@ -10,7 +10,7 @@
   "author": "Ernest Chiu",
   "license": "ISC",
   "dependencies": {
-    "react": "^16.7.0",
+    "react": "^16.8.2",
     "react-dom": "^16.7.0",
     "src": "^1.1.2"
   },
