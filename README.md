@@ -20,5 +20,3 @@ git clone depth=1 https://github.com/badsyntax/react-seed.git
  - `npm start`
  - `npm build`
 
-<img src="https://imgur.com/ZV92wxj" alt="Personal Icon" style="float: left; margin-right: 10px;"/>
-<blockquote class="imgur-embed-pub" lang="en" data-id="ZV92wxj"><a href="//imgur.com/ZV92wxj">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
