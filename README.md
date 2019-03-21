@@ -20,4 +20,6 @@ git clone depth=1 https://github.com/badsyntax/react-seed.git
  - `npm start`
  - `npm build`
 
-<img src="https://s3-ap-southeast-1.amazonaws.com/ernestchiu-personal-asset/icons/Icon48.png" alt="Ernest Chiu" style="display: block;margin-right: auto;margin: 20px auto;" />
+<p align="center">
+<img src="https://s3-ap-southeast-1.amazonaws.com/ernestchiu-personal-asset/icons/Icon48.png" alt="Ernest Chiu" />
+</p>
