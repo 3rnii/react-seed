@@ -22,5 +22,5 @@ git clone depth=1 https://github.com/badsyntax/react-seed.git
 
 ***
 <p align="center">
-<img src="https://s3-ap-southeast-1.amazonaws.com/ernestchiu-personal-asset/icons/Icon48.svg" alt="Ernest Chiu" style="height:30px;width:30px;" />
+<img src="https://s3-ap-southeast-1.amazonaws.com/ernestchiu-personal-asset/icons/Icon48.svg" alt="Ernest Chiu" width="30" />
 </p>
