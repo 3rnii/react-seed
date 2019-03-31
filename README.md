@@ -11,6 +11,13 @@ A boilerplate for building React apps
  
 ### Getting Started
 
+##### Installing with git
+
+```bash
+git clone depth=1 https://github.com/badsyntax/react-seed.git
+```
+
+##### npm scripts
 ```bash
 # To install the dependencies
 npm install
@@ -20,18 +27,10 @@ npm start
 
 # To build your project
 npm build
-
 ```
 
-##### Installing with git
-
-```bash
-git clone depth=1 https://github.com/badsyntax/react-seed.git
-```
-
-##### npm scripts
- - `npm start`
- - `npm build`
+### License
+This project is licensed under the [MIT license](./LICENSE).
 
 ---
 <p align="center">
