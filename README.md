@@ -6,9 +6,22 @@ A boilerplate for building React apps
  - React 16.8
  - Parcel
  - Stylus
- - ES6, ES7 & JSX to ES5 via Babel
+ - Redux and Redux-Saga
+ - React Router
  
 ### Getting Started
+
+```bash
+# To install the dependencies
+npm install
+
+# To run your project
+npm start
+
+# To build your project
+npm build
+
+```
 
 ##### Installing with git
 
